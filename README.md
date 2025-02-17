@@ -1,4 +1,4 @@
-## Hi there 👋 I am Rahul Barik
+## Hi there, I'm Rahul Barik 👋 
 
 <!--
 **rahullbarik/rahullbarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
